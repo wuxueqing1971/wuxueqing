@@ -4,20 +4,9 @@ layout: page
 
 <img style="float: right;" src="assets/图片1.png">
 
-PI: Michael I. Love <br>
-Assistant Professor <br>
-[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
-[Department of Genetics](http://www.med.unc.edu/genetics/) <br>
-Member of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) <br>
-University of North Carolina-Chapel Hill
+吴雪清 教授 <br>
 
-[@mikelove](http://twitter.com/mikelove) ---
-[Google Scholar](https://scholar.google.com/citations?user=vzXv764AAAAJ) ---
-[Biostatistics Dept profile](http://sph.unc.edu/adv_profile/michael-love-phd/)
 
-michaelisaiahlove at gmail dot com *
-
-\* for software questions, do not email, instead use the [Bioconductor support site](https://support.bioconductor.org)
 
 ### News and upcoming talks
 
