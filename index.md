@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img style="float: right;" src="assets/michaellove.jpg">
+<img style="float: right;" src="assets/图片1.png">
 
 PI: Michael I. Love <br>
 Assistant Professor <br>
