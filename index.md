@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img style="float: right;" src="assets/图片1.png" height="450",width="330">
+<img style="float: right;" src="assets/图片1.png">
 
 # 吴雪清 教授 Prof. Xueqing Wu
 
