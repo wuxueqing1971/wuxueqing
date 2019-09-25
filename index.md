@@ -6,7 +6,7 @@ layout: page
 
 # 吴雪清 教授 Prof. Xueqing Wu
 
-     妇产科学专家，问题2现任深圳大学总医院妇产科主任问题3，深圳大学教授、博士生导师。
+ 妇产科学专家，问题2现任深圳大学总医院妇产科主任问题3，深圳大学教授、博士生导师。
  中国优生协会生殖健康专委会委员、中国妇幼保健协会生育保健专委会委员、广东省基层医药学会生殖妇科副主委、
  深圳市医师协会妇产科分会副会长、中国老年学和老年医学学会妇科分会内分泌学组委员、英国生殖和生育协会会员、
  美国内分泌协会会员 、《生殖医学杂志》编委 、5+3 教改教程《妇产科学》编委、
@@ -20,6 +20,8 @@ layout: page
 1996---2000 中国温州医科大学妇科内分泌专业 医学硕士
 2006---2010 英国伦敦大学国王学院生殖和内分泌系 哲学博士（Ph. D.）
 
+***
+
 ## 工作履历 work experience
 
 1994---2000   温州医科大学附属第一医院 住院医生、助教
@@ -28,6 +30,8 @@ layout: page
 2012---2016   温州医科大学附属第一医院 教授、副主任医师
 2016---2017.5 温州医科大学附属第一医院 教授、主任医师
 2017.6-至今   深圳大学总医院 主任医师、教授
+
+***
 
 ## 近期发表的文献 Recent Publications 
 
@@ -44,6 +48,8 @@ layout: page
 11. Wu XQ, Chen HY, Wan L and Quinn M. Abnormal innervation of narrowed, uterine arterioles in cornual ectopic pregnancy. J Obstet Gynaecol, 2014(9):652-653.
 12. Zhou QY, Chen HY, Yang SM, Li YH, Wang BQ, Chen YY and Wu XQ*. High-fat diet decreases the expression of Kiss1 mRNA and kisspeptin in the ovary, and increases ovulatory dysfunction in postpubertal female rats. Reproductive biology and endocrinology 2014;12(1);127-138.
 
+***
+
 ## 近期主持的课题 Recent Fundings
 
 1. 国家⾃然科学基金（81873822）Kisspeptin 介导的MAPK 通路在PCOS 卵巢功能障碍的调控作 ⽤及机制研究（57 万元）；2019.1-2022.12[1]
@@ -56,6 +62,8 @@ layout: page
 8. 教育部“留学回国⼈员科研启动基⾦”（第45 批资助）“内毒素对雌⿏⽣殖功能的⻓期影响及 机制研究“（3 万元）
 9. 教育部博⼠学科点专项科研基⾦新教师类联合资助课题（20113321120004）：⽣命早期免疫应激对雌⿏卵巢功能⻓期影响机制的研究（4 万元）2012.1-2014.12
 10. 浙江省⾃然科学基金（Y2110606）：早期肥胖对雌性⼤⿏下丘脑-垂体-性腺轴的⻓期程序化作 ⽤的研究（8 万元）2011.1-2013.12
+
+***
 
 ## 获奖 Honors
 
