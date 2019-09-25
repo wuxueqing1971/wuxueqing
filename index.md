@@ -2,8 +2,6 @@
 layout: page
 ---
 
-<!-- {% include JB/setup %} -->
-
 <img style="float: right;" src="assets/michaellove.jpg">
 
 PI: Michael I. Love <br>
